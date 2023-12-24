@@ -89,8 +89,8 @@
 
 ## HTML 
 
+- [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
-- [recepcoban/tasarim-desenleri-turkce-kaynak](https://github.com/recepcoban/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımın yanı sıra C# ve Java gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [mgulener/turkiye-regex-kaliplari](https://github.com/mgulener/turkiye-regex-kaliplari) - Türkiye'de kullanılan bazı kalıpların regex kodları
