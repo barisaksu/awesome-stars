@@ -1112,7 +1112,7 @@
 - [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
-- [vuegg/vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
+- [vuegg/vuegg](https://github.com/vuegg/vuegg) - dnd visual editor - mockups and code in one go!
 - [elisiondesign/vue-code-highlight](https://github.com/elisiondesign/vue-code-highlight) - Beautiful code highlighter as Vue.js component.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
