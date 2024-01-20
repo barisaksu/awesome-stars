@@ -471,7 +471,6 @@
 
 ## hacktoberfest 
 
-- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
@@ -777,6 +776,7 @@
 
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
 - [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [awcodes/filament-curator](https://github.com/awcodes/filament-curator) - A media picker plugin for Filament Panels.
