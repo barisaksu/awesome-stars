@@ -331,6 +331,7 @@
 
 ## TypeScript 
 
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
