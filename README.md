@@ -180,6 +180,7 @@
 
 ## Others 
 
+- [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [php/doc-tr](https://github.com/php/doc-tr) - Turkish translation of the PHP documentation
 - [fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri](https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri) - Bulut bilişim ve AWS hizmetlerini detaylı şekilde konu edinen ücretsiz Türkçe kaynak
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
@@ -331,6 +332,7 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
