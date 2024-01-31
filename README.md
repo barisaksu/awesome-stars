@@ -185,7 +185,6 @@
 - [php/doc-tr](https://github.com/php/doc-tr) - Turkish translation of the PHP documentation
 - [fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri](https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri) - Bulut bilişim ve AWS hizmetlerini detaylı şekilde konu edinen ücretsiz Türkçe kaynak
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
-- [eminfedar/rust-tr-ders-slaytlari](https://github.com/eminfedar/rust-tr-ders-slaytlari) - Rust dilini en temelden basit örneklerle anlatan, derslerde kullanılmak üzere hazırlanmış açık kaynak slaytlardır.
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
@@ -281,6 +280,7 @@
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
+- [eminfedar/rust-tr-ders-slaytlari](https://github.com/eminfedar/rust-tr-ders-slaytlari) - Rust dilini en temelden basit örneklerle anlatan, derslerde kullanılmak üzere hazırlanmış açık kaynak slaytlardır.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
