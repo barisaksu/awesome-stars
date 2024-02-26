@@ -858,7 +858,6 @@
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [tkaratug/titan2](https://github.com/tkaratug/titan2) - Simple and Lightweight PHP Web Framework
 - [jbratcher/webdev_blog](https://github.com/jbratcher/webdev_blog) - My professional web dev site built on Laravel and Vue.js
-- [bzrncev/intellij-parameter-hints](https://github.com/bzrncev/intellij-parameter-hints) - 
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
 - [aponkral/phpkoru](https://github.com/aponkral/phpkoru) - PHPkoru PHP Encoder
