@@ -45,7 +45,7 @@
 
 ## C# # 
 
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## C++ 
 
@@ -196,6 +196,9 @@
 
 ## PHP 
 
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
+- [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
