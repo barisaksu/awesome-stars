@@ -816,6 +816,9 @@
 
 ## others 
 
+- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
+- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
+- [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
@@ -897,6 +900,7 @@
 
 ## php 
 
+- [xrdebug/php](https://github.com/xrdebug/php) - PHP client library for xrDebug
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
