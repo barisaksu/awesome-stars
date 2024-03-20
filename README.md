@@ -19,7 +19,6 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
-- [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -147,6 +146,7 @@
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
+- [mikemcbride/website](https://github.com/mikemcbride/website) - my personal website
 - [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
@@ -168,10 +168,6 @@
 ## MDX 
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-
-## Nunjucks 
-
-- [mikemcbride/website](https://github.com/mikemcbride/website) - my personal website
 
 ## Objective-C 
 
@@ -401,6 +397,7 @@
 
 ## Vue 
 
+- [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
