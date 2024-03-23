@@ -191,6 +191,7 @@
 
 ## PHP 
 
+- [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
 - [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
 - [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
