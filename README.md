@@ -131,7 +131,6 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tailwindlabs/tailwindui-vue](https://github.com/tailwindlabs/tailwindui-vue) - Deprecated, please use the Headless UI repo instead.
 - [vuegg/vuegg](https://github.com/vuegg/vuegg) - dnd visual editor - mockups and code in one go!
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
@@ -384,6 +383,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
