@@ -243,6 +243,7 @@
 
 ## bootstrap 
 
+- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 
 ## c 
@@ -506,6 +507,7 @@
 
 ## hacktoberfest 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
@@ -637,7 +639,7 @@
 ## laravel 
 
 - [yediyuz/laravel-package](https://github.com/yediyuz/laravel-package) - A skeleton repository for Yediyuz's Laravel Packages
-- [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - 
+- [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - Serve millions of requests by caching with Cloudflare
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
@@ -710,6 +712,7 @@
 
 ## low-code 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## machine-learning 
@@ -763,6 +766,7 @@
 
 ## mysql 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
@@ -913,6 +917,7 @@
 
 ## php 
 
+- [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [xrdebug/php](https://github.com/xrdebug/php) - PHP client library for xrDebug
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
@@ -964,6 +969,7 @@
 
 ## postgresql 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 
 ## privacy 
@@ -1030,6 +1036,7 @@
 
 ## rest-api 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [davidhsianturi/laravel-compass](https://github.com/davidhsianturi/laravel-compass) - A REST client inside your Laravel app
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
@@ -1112,6 +1119,7 @@
 
 ## sqlite 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 
 ## storybook 
