@@ -851,6 +851,7 @@
 
 ## others 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
 - [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
 - [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
