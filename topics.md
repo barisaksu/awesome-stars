@@ -156,6 +156,7 @@
 
 ## 3d 
 
+- [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## ai 
@@ -399,6 +400,7 @@
 
 ## emulator 
 
+- [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
 - [hasegawa-tomoki/php-terminal-nes-emulator](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator) - A PHP terminal NES emulator
 
 ## es6 
@@ -455,12 +457,14 @@
 
 ## game 
 
+- [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [vigo/dinozorus](https://github.com/vigo/dinozorus) - 1990'lı yıllara damgasını vuran efsane televizyon oyunu Dinozorus. Amiga 1200 - AGA
 - [eggsy/find-associative-words](https://github.com/eggsy/find-associative-words) - 🎮 An interactive game which you try to find associative words of a source word.
 - [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
 
 ## game-development 
 
+- [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
 ## game-engine 
@@ -805,6 +809,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## nlp 
 
@@ -843,6 +848,7 @@
 
 ## opengl 
 
+- [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 
 ## osint 
@@ -936,6 +942,8 @@
 
 ## php 
 
+- [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
+- [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [xrdebug/php](https://github.com/xrdebug/php) - PHP client library for xrDebug
@@ -1034,6 +1042,7 @@
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
