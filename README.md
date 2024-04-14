@@ -135,7 +135,7 @@
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [tailwindlabs/tailwindui-vue](https://github.com/tailwindlabs/tailwindui-vue) - Deprecated, please use the Headless UI repo instead.
-- [vuegg/vuegg](https://github.com/vuegg/vuegg) - dnd visual editor - mockups and code in one go!
+- [alxpez/vuegg](https://github.com/alxpez/vuegg) - dnd visual editor - mockups and code in one go!
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [AnanthVivekanand/spotify-adblock](https://github.com/AnanthVivekanand/spotify-adblock) - Blocking ads on desktop Spotify, crazy code ahead
