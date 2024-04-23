@@ -22,7 +22,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -178,6 +177,7 @@
 
 ## Others 
 
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [hknakst/Sistem-programlama](https://github.com/hknakst/Sistem-programlama) - Sistem Programlama Türkçe Kaynak (KTÜ)
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [php/doc-tr](https://github.com/php/doc-tr) - Turkish translation of the PHP documentation
@@ -276,10 +276,6 @@
 - [physje/funda](https://github.com/physje/funda) - Script om funda.nl in de gaten te houden
 - [realrashid/sweet-alert](https://github.com/realrashid/sweet-alert) - A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES FOR LARAVEL
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-## PowerShell 
-
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 
 ## Python 
 
