@@ -1052,6 +1052,7 @@
 
 ## react-native 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [atticoos/MagicMirror](https://github.com/atticoos/MagicMirror) - :crystal_ball: ReactNative smart mirror project
 
 ## reactjs 
