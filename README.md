@@ -189,7 +189,6 @@
 - [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
-- [aponkral/phpkoru](https://github.com/aponkral/phpkoru) - PHPkoru PHP Encoder
 - [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
 
 ## PHP 
