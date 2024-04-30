@@ -207,6 +207,7 @@
 
 ## artificial-intelligence 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 
 ## atom 
@@ -860,7 +861,6 @@
 ## others 
 
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
 - [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
 - [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
@@ -922,7 +922,6 @@
 - [jbratcher/webdev_blog](https://github.com/jbratcher/webdev_blog) - My professional web dev site built on Laravel and Vue.js
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
-- [aponkral/phpkoru](https://github.com/aponkral/phpkoru) - PHPkoru PHP Encoder
 - [physje/funda](https://github.com/physje/funda) - Script om funda.nl in de gaten te houden
 - [serkandyck/flutter_vpn_example](https://github.com/serkandyck/flutter_vpn_example) - Example Flutter VPN Application
 - [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
