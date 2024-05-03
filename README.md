@@ -255,7 +255,6 @@
 - [ichtrojan/laravel-location](https://github.com/ichtrojan/laravel-location) - A simple Laravel Package to sort Countries, States and Cities
 - [antonioribeiro/version](https://github.com/antonioribeiro/version) - Laravel App versioning
 - [davidhsianturi/laravel-compass](https://github.com/davidhsianturi/laravel-compass) - A REST client inside your Laravel app
-- [mad-web/laravel-initializer](https://github.com/mad-web/laravel-initializer) - Install and update Laravel application with single command. Outdated repository, check out updated link.
 - [clarkeash/doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
