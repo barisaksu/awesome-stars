@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Objective-C](#objective-c)
@@ -59,6 +60,7 @@
 
 ## CSS 
 
+- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [elisiondesign/vue-code-highlight](https://github.com/elisiondesign/vue-code-highlight) - Beautiful code highlighter as Vue.js component.
@@ -160,6 +162,10 @@
 - [menzerath/hastebin-plus](https://github.com/menzerath/hastebin-plus) - Hastebin Plus is an open-source Pastebin software written in Node.js. It is based upon haste and got enhanced in matters of design, speed and simplicity.
 - [idoco/map-chat](https://github.com/idoco/map-chat) - A super simple location based chat
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+
+## Jupyter Notebook 
+
+- [google/zimtohrli](https://github.com/google/zimtohrli) - 
 
 ## Kotlin 
 
@@ -350,6 +356,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
