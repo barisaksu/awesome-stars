@@ -866,6 +866,9 @@
 
 ## others 
 
+- [google/zimtohrli](https://github.com/google/zimtohrli) - 
+- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
 - [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
 - [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
