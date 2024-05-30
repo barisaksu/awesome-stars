@@ -94,6 +94,7 @@
 ## HTML 
 
 - [LlmLaraHub/laralamma](https://github.com/LlmLaraHub/laralamma) - This is version 2 off LaraChain.io
+- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
@@ -106,7 +107,6 @@
 
 ## JavaScript 
 
-- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm) - Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
