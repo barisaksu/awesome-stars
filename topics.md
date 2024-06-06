@@ -876,7 +876,7 @@
 - [LlmLaraHub/laralamma](https://github.com/LlmLaraHub/laralamma) - This is version 2 off LaraChain.io
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
-- [netrisdotme/netris](https://github.com/netrisdotme/netris) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
+- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
 - [TobbenTM/acousti-kit](https://github.com/TobbenTM/acousti-kit) - A collection of production grade Vue.js audio interface components
 - [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
