@@ -874,7 +874,7 @@
 
 ## others 
 
-- [LlmLaraHub/laralamma](https://github.com/LlmLaraHub/laralamma) - This is version 2 off LaraChain.io
+- [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 off LaraChain.io
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
