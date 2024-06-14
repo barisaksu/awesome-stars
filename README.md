@@ -62,7 +62,6 @@
 
 ## CSS 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [elisiondesign/vue-code-highlight](https://github.com/elisiondesign/vue-code-highlight) - Beautiful code highlighter as Vue.js component.
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
@@ -204,6 +203,7 @@
 
 ## PHP 
 
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
 - [rmunate/PHP2JS](https://github.com/rmunate/PHP2JS) - 🚀 Seamless Integration: PHP2JS 🚀 Effortlessly share PHP Laravel values with external JavaScript files using just one command, thanks to the seamless integration of PHP2JS. 💻✨
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
 - [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
@@ -291,6 +291,8 @@
 
 ## Python 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
@@ -359,6 +361,7 @@
 
 ## Svelte 
 
+- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -435,6 +438,7 @@
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source.
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [eggsy/find-associative-words](https://github.com/eggsy/find-associative-words) - 🎮 An interactive game which you try to find associative words of a source word.
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
