@@ -378,6 +378,7 @@
 
 ## docker 
 
+- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -660,6 +661,7 @@
 
 ## laravel 
 
+- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [yediyuz/laravel-package](https://github.com/yediyuz/laravel-package) - A skeleton repository for Yediyuz's Laravel Packages
 - [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - Serve millions of requests by caching with Cloudflare
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
@@ -874,6 +876,9 @@
 
 ## others 
 
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 off LaraChain.io
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
