@@ -912,7 +912,7 @@
 - [outl1ne/nova-multiselect-field](https://github.com/outl1ne/nova-multiselect-field) - A Laravel Nova package that adds a multiselect to Nova's arsenal of fields.
 - [php/doc-tr](https://github.com/php/doc-tr) - Turkish translation of the PHP documentation
 - [Intevel/vue-browser-notifications](https://github.com/Intevel/vue-browser-notifications) - 💬 Easy to use Vue 3 composable for managing browser notifications
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [nberr/juce-template](https://github.com/nberr/juce-template) - Template for JUCE plugins
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
