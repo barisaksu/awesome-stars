@@ -507,6 +507,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [ksckaan1/go-programlama-dili](https://github.com/ksckaan1/go-programlama-dili) - Go Programlama Dili Hakkında Türkçe Kaynak
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 
 ## golang 
@@ -954,7 +955,6 @@
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [RustDili/dokuman](https://github.com/RustDili/dokuman) - Rust Türkçe Dökümanları
 - [tailwindlabs/tailwindui-vue](https://github.com/tailwindlabs/tailwindui-vue) - Deprecated, please use the Headless UI repo instead.
-- [ksckaan1/go-programlama-dili](https://github.com/ksckaan1/go-programlama-dili) - Go Programlama Dili Hakkında Türkçe Kaynak
 - [AnanthVivekanand/spotify-adblock](https://github.com/AnanthVivekanand/spotify-adblock) - Blocking ads on desktop Spotify, crazy code ahead
 - [theguriev/mind-maps-ext](https://github.com/theguriev/mind-maps-ext) - Mind maps
 - [sooxt98/spotify-crack-chrome-app](https://github.com/sooxt98/spotify-crack-chrome-app) - World smallest spotify crack app ever~
