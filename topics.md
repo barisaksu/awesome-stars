@@ -681,7 +681,7 @@
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [protonemedia/eddy-server-management](https://github.com/protonemedia/eddy-server-management) - Open-Source Solution for Server Provisioning and Zero-Downtime PHP Deployment
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 9, TailwindCSS 3, Inertia and Vue3
+- [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 11, TailwindCSS, Inertia and Vue3
 - [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) - Validate products and subscription receipts. Handle subscription lifecycle.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
@@ -1321,7 +1321,7 @@
 ## vuejs 
 
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
-- [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 9, TailwindCSS 3, Inertia and Vue3
+- [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 11, TailwindCSS, Inertia and Vue3
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [staskobzar/vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - VueJS audio visualization components
 - [protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Inertia.js Tables for Laravel Query Builder
