@@ -893,6 +893,7 @@
 
 ## others 
 
+- [wbernard/Memorado](https://github.com/wbernard/Memorado) - Memorize anything
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
@@ -997,7 +998,7 @@
 - [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-- [xrdebug/php](https://github.com/xrdebug/php) - PHP client library for xrDebug
+- [xrdebug/php](https://github.com/xrdebug/php) - Official PHP client library for xrDebug
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
