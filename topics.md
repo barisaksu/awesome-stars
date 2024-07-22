@@ -675,6 +675,7 @@
 
 ## laravel 
 
+- [deligoez/tckimlikno](https://github.com/deligoez/tckimlikno) - Turkish Identification Number Verification & Validation Package for Laravel
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [yediyuz/laravel-package](https://github.com/yediyuz/laravel-package) - A skeleton repository for Yediyuz's Laravel Packages
 - [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - Serve millions of requests by caching with Cloudflare
@@ -993,6 +994,7 @@
 
 ## php 
 
+- [deligoez/tckimlikno](https://github.com/deligoez/tckimlikno) - Turkish Identification Number Verification & Validation Package for Laravel
 - [rmunate/PHP2JS](https://github.com/rmunate/PHP2JS) - 🚀 Seamless Integration: PHP2JS 🚀 Effortlessly share PHP Laravel values with external JavaScript files using just one command, thanks to the seamless integration of PHP2JS. 💻✨
 - [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
