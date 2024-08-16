@@ -909,7 +909,7 @@
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
 - [TobbenTM/acousti-kit](https://github.com/TobbenTM/acousti-kit) - A collection of production grade Vue.js audio interface components
 - [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
-- [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
+- [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
 - [google/zimtohrli](https://github.com/google/zimtohrli) - 
 - [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
