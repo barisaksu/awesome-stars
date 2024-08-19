@@ -144,6 +144,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -957,7 +958,6 @@
 - [noxify/gridsome-plugin-remark-embed](https://github.com/noxify/gridsome-plugin-remark-embed) - Gridsome Remark plugin to embed external stuff into your gridsome site.
 - [spiderwebtr/isauth](https://github.com/spiderwebtr/isauth) - This package provides control to check if user session dead before submit forms. If the session is dead, a modal will reveal and ask password to re-login.
 - [jsdf/little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
-- [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) - Rust bindings for Sciter
 - [FreeFeed/freefeed-server](https://github.com/FreeFeed/freefeed-server) - FreeFeed server
 - [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
@@ -973,7 +973,6 @@
 - [tkaratug/titan2](https://github.com/tkaratug/titan2) - Simple and Lightweight PHP Web Framework
 - [jbratcher/webdev_blog](https://github.com/jbratcher/webdev_blog) - My professional web dev site built on Laravel and Vue.js
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
 - [physje/funda](https://github.com/physje/funda) - Script om funda.nl in de gaten te houden
 - [serkandyck/flutter_vpn_example](https://github.com/serkandyck/flutter_vpn_example) - Example Flutter VPN Application
 - [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
@@ -1240,6 +1239,18 @@
 ## symfony 
 
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
+
+## tailwindcss 
+
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 11, TailwindCSS, Inertia and Vue3
+- [protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Inertia.js Tables for Laravel Query Builder
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [mikemcbride/website](https://github.com/mikemcbride/website) - my personal website
+- [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
 
 ## terminal 
 
