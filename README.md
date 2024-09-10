@@ -206,6 +206,7 @@
 
 ## PHP 
 
+- [onursimsek/laravel-extended](https://github.com/onursimsek/laravel-extended) - Extend your Laravel project 🪄
 - [deligoez/tckimlikno](https://github.com/deligoez/tckimlikno) - Turkish Identification Number Verification & Validation Package for Laravel
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
 - [rmunate/PHP2JS](https://github.com/rmunate/PHP2JS) - 🚀 Seamless Integration: PHP2JS 🚀 Effortlessly share PHP Laravel values with external JavaScript files using just one command, thanks to the seamless integration of PHP2JS. 💻✨
