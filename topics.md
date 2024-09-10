@@ -902,6 +902,7 @@
 
 ## others 
 
+- [onursimsek/laravel-extended](https://github.com/onursimsek/laravel-extended) - Extend your Laravel project 🪄
 - [wbernard/Memorado](https://github.com/wbernard/Memorado) - Memorize anything
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
