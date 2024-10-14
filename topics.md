@@ -596,6 +596,7 @@
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [sweetalert2/sweetalert2.github.io](https://github.com/sweetalert2/sweetalert2.github.io) - Documentation for SweetAlert2
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -992,7 +993,6 @@
 - [physje/funda](https://github.com/physje/funda) - Script om funda.nl in de gaten te houden
 - [serkandyck/flutter_vpn_example](https://github.com/serkandyck/flutter_vpn_example) - Example Flutter VPN Application
 - [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
-- [sweetalert2/sweetalert2.github.io](https://github.com/sweetalert2/sweetalert2.github.io) - Documentation for SweetAlert2
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
