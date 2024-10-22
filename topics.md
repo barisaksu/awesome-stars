@@ -914,6 +914,7 @@
 
 ## others 
 
+- [kjdev/php-ext-snappy](https://github.com/kjdev/php-ext-snappy) - Snappy Extension for PHP
 - [onursimsek/laravel-extended](https://github.com/onursimsek/laravel-extended) - Extend your Laravel project 🪄
 - [wbernard/Memorado](https://github.com/wbernard/Memorado) - Memorize anything
 - [koaning/tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
