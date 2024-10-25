@@ -388,7 +388,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [dmstern/likers-blocker](https://github.com/dmstern/likers-blocker) - A browser extension to block likers, retweeters, list members and Twitter ads and share your block lists with others. - say NO to hate speech!
 - [Intevel/vue-browser-notifications](https://github.com/Intevel/vue-browser-notifications) - 💬 Easy to use Vue 3 composable for managing browser notifications
 - [statsfm/spotify.js](https://github.com/statsfm/spotify.js) - Statically typed SDK for the Spotify Web API
