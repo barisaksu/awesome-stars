@@ -925,6 +925,7 @@
 
 ## others 
 
+- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [kjdev/php-ext-snappy](https://github.com/kjdev/php-ext-snappy) - Snappy Extension for PHP
 - [onursimsek/laravel-extended](https://github.com/onursimsek/laravel-extended) - Extend your Laravel project 🪄
 - [wbernard/Memorado](https://github.com/wbernard/Memorado) - Memorize anything
@@ -1017,7 +1018,6 @@
 
 ## p2p 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
