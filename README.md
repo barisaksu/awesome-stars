@@ -190,6 +190,7 @@
 
 ## Others 
 
+- [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [hknakst/Sistem-programlama](https://github.com/hknakst/Sistem-programlama) - Sistem Programlama Türkçe Kaynak (KTÜ)
