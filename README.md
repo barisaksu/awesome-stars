@@ -170,6 +170,7 @@
 
 ## Jupyter Notebook 
 
+- [mehmetabak/FlipHTML5-Downloader](https://github.com/mehmetabak/FlipHTML5-Downloader) - The FlipHTML5 Downloader is a Python tool designed to download public pages from FlipHTML5 books and compile them into a single PDF file
 - [google/zimtohrli](https://github.com/google/zimtohrli) - 
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 
