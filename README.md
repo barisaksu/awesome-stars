@@ -376,7 +376,7 @@
 
 ## TypeScript 
 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
