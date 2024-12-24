@@ -928,6 +928,7 @@
 
 ## others 
 
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [mehmetabak/FlipHTML5-Downloader](https://github.com/mehmetabak/FlipHTML5-Downloader) - The FlipHTML5 Downloader is a Python tool designed to download public pages from FlipHTML5 books and compile them into a single PDF file
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
@@ -943,7 +944,7 @@
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source, self-hosted Geforce Now alternative
-- [vitodeploy/vito](https://github.com/vitodeploy/vito) - The Ultimate Server Management Tool
+- [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [TobbenTM/acousti-kit](https://github.com/TobbenTM/acousti-kit) - A collection of production grade Vue.js audio interface components
 - [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata) - Pure Data as a plugin, with a new GUI
 - [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio to chords, lyrics, beat, and melody.
