@@ -387,7 +387,6 @@
 
 ## TypeScript 
 
-- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
@@ -454,6 +453,7 @@
 
 ## Vue 
 
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [TobbenTM/acousti-kit](https://github.com/TobbenTM/acousti-kit) - A collection of production grade Vue.js audio interface components
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
