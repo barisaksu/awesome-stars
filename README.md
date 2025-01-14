@@ -295,7 +295,7 @@
 - [clarkeash/doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [ulearnpro/ulearn](https://github.com/ulearnpro/ulearn) - ULEARN - Open Source(FREE) LMS script in Laravel 5.8 and ReactJS 16.9
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
 - [pietrocinaglia/laraupdater](https://github.com/pietrocinaglia/laraupdater) - LaraUpdater allows your Laravel Application to auto-update itself: Laravel App Self-Update.
@@ -414,7 +414,7 @@
 - [dmstern/likers-blocker](https://github.com/dmstern/likers-blocker) - A browser extension to block likers, retweeters, list members and Twitter ads and share your block lists with others. - say NO to hate speech!
 - [Intevel/vue-browser-notifications](https://github.com/Intevel/vue-browser-notifications) - 💬 Easy to use Vue 3 composable for managing browser notifications
 - [statsfm/spotify.js](https://github.com/statsfm/spotify.js) - Statically typed SDK for the Spotify Web API
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
