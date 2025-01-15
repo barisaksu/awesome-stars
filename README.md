@@ -221,6 +221,7 @@
 
 ## PHP 
 
+- [peckphp/peck](https://github.com/peckphp/peck) - Peck is a powerful CLI tool designed to identify pure wording or spelling (grammar) mistakes in your codebase.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [abbasudo/laravel-purity](https://github.com/abbasudo/laravel-purity) - An elegant way to filter and sort queries in Laravel
