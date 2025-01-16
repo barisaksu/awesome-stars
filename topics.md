@@ -1054,7 +1054,7 @@
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Lightweight debug utility
+- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Lightweight portable debug utility
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
