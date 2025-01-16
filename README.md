@@ -87,7 +87,7 @@
 ## Go 
 
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
-- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Lightweight debug utility
+- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Lightweight portable debug utility
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
