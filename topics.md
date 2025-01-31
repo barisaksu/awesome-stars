@@ -468,6 +468,7 @@
 
 ## firebase 
 
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## firefox 
@@ -507,6 +508,7 @@
 
 ## game 
 
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [vigo/dinozorus](https://github.com/vigo/dinozorus) - 1990'lı yıllara damgasını vuran efsane televizyon oyunu Dinozorus. Amiga 1200 - AGA
 - [eggsy/find-associative-words](https://github.com/eggsy/find-associative-words) - 🎮 An interactive game which you try to find associative words of a source word.
@@ -574,6 +576,7 @@
 
 ## hacktoberfest 
 
+- [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
