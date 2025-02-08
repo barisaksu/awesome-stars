@@ -135,7 +135,6 @@
 - [trevoreyre/autocomplete](https://github.com/trevoreyre/autocomplete) - Accessible autocomplete component for vanilla JavaScript and Vue.
 - [adamistheanswer/gatsby-starter-baysik-blog](https://github.com/adamistheanswer/gatsby-starter-baysik-blog) - A minimal and basic starter for creating blogs using Gatsby.
 - [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [noxify/gridsome-plugin-remark-embed](https://github.com/noxify/gridsome-plugin-remark-embed) - Gridsome Remark plugin to embed external stuff into your gridsome site.
@@ -437,6 +436,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) - ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login
