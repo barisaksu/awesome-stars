@@ -888,7 +888,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -1171,7 +1171,7 @@
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
@@ -1324,7 +1324,7 @@
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [sinan-aydogan/tailadmin-laravel](https://github.com/sinan-aydogan/tailadmin-laravel) - TailAdmin is a dashboard theme / UI starter kit with Laravel 11, TailwindCSS, Inertia and Vue3
 - [protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Inertia.js Tables for Laravel Query Builder
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
