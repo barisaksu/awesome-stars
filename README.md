@@ -399,6 +399,7 @@
 
 ## TypeScript 
 
+- [levashvili/ear-training-web](https://github.com/levashvili/ear-training-web) - web app for ear training and learning piano by ear
 - [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view) - A Diff View component for React / Vue, just like Github
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
