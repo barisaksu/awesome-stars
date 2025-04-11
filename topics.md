@@ -50,6 +50,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [development](#development)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -419,6 +420,10 @@
 ## deployment 
 
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
+
+## development 
+
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 
 ## django 
 
