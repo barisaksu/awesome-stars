@@ -716,6 +716,7 @@
 
 ## kotlin 
 
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## kubernetes 
@@ -1427,6 +1428,7 @@
 
 ## vim 
 
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [hknakst/Sistem-programlama](https://github.com/hknakst/Sistem-programlama) - Sistem Programlama Türkçe Kaynak (KTÜ)
