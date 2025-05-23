@@ -1214,6 +1214,7 @@
 
 ## react-native 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [atticoos/MagicMirror](https://github.com/atticoos/MagicMirror) - :crystal_ball: ReactNative smart mirror project
 
