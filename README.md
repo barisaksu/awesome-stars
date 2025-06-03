@@ -346,6 +346,7 @@
 
 ## Rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
