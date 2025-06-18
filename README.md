@@ -123,7 +123,7 @@
 ## JavaScript 
 
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm) - Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
