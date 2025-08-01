@@ -177,6 +177,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1036,7 +1037,6 @@
 - [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [awcodes/filament-curator](https://github.com/awcodes/filament-curator) - A media picker plugin for Filament Panels.
 - [jeffgreco13/filament-breezy](https://github.com/jeffgreco13/filament-breezy) - 
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - 
@@ -1561,6 +1561,10 @@
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## zsh 
+
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 
 ## License
