@@ -177,7 +177,6 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -214,6 +213,7 @@
 
 ## android 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -628,7 +628,6 @@
 - [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend) - Generate trends for your models. Easily generate charts or reports.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [statsfm/spotify.js](https://github.com/statsfm/spotify.js) - Statically typed SDK for the Spotify Web API
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -691,6 +690,7 @@
 
 ## ios 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -862,6 +862,7 @@
 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
@@ -1039,6 +1040,7 @@
 - [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [awcodes/filament-curator](https://github.com/awcodes/filament-curator) - A media picker plugin for Filament Panels.
 - [jeffgreco13/filament-breezy](https://github.com/jeffgreco13/filament-breezy) - 
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - 
@@ -1553,6 +1555,7 @@
 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1563,10 +1566,6 @@
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-
-## zsh 
-
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 
 ## License
