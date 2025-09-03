@@ -1032,7 +1032,7 @@
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [awcodes/filament-curator](https://github.com/awcodes/filament-curator) - A media picker plugin for Filament Panels.
-- [Jacobtims/filament-breezy](https://github.com/Jacobtims/filament-breezy) - 
+- [Jacobtims/filament-breezy](https://github.com/Jacobtims/filament-breezy) - Filament plugin for customizable profile page, two factor authentication & Sanctum token management.
 - [Althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - 
 - [outl1ne/nova-multiselect-field](https://github.com/outl1ne/nova-multiselect-field) - A Laravel Nova package that adds a multiselect to Nova's arsenal of fields.
 - [php/doc-tr](https://github.com/php/doc-tr) - Turkish translation of the PHP documentation
