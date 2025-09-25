@@ -33,6 +33,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [compiler](#compiler)
@@ -342,6 +343,10 @@
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+
+## cloud 
+
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 
 ## cms 
 
@@ -1119,7 +1124,7 @@
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - xrDebug is a fast, Open Source alternative to Ray for real-time debugging with a web interface, message filtering, encryption, and collaborative tools.
+- [xrdebug/xrdebug](https://github.com/xrdebug/xrdebug) - Fast, lightweight, portable, Open Source alternative to Ray for real-time debugging with web interface, filtering, encryption, and useful tools
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
