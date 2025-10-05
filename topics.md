@@ -639,7 +639,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
