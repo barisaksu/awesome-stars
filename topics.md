@@ -82,6 +82,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -344,6 +345,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
@@ -620,6 +622,15 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 
+## gui 
+
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) - Rust bindings for Sciter
+- [alxpez/vuegg](https://github.com/alxpez/vuegg) - dnd visual editor - mockups and code in one go!
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+
 ## hacking 
 
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
@@ -685,6 +696,7 @@
 
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
@@ -1059,7 +1071,6 @@
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [RustAudio/vst3-sys](https://github.com/RustAudio/vst3-sys) - Raw Bindings to the VST3 API
 - [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
 - [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
@@ -1075,7 +1086,6 @@
 - [noxify/gridsome-plugin-remark-embed](https://github.com/noxify/gridsome-plugin-remark-embed) - Gridsome Remark plugin to embed external stuff into your gridsome site.
 - [spiderwebtr/isauth](https://github.com/spiderwebtr/isauth) - This package provides control to check if user session dead before submit forms. If the session is dead, a modal will reveal and ask password to re-login.
 - [jsdf/little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
-- [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) - Rust bindings for Sciter
 - [FreeFeed/freefeed-server](https://github.com/FreeFeed/freefeed-server) - FreeFeed server
 - [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
