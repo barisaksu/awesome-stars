@@ -78,6 +78,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -600,6 +601,10 @@
 ## gamedev 
 
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+
+## generative-ai 
+
+- [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 
 ## git 
 
