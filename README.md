@@ -405,6 +405,7 @@
 
 ## TypeScript 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - A sleek React library for animated SVG icons that move with purpose. Transform static designs into engaging user experiences with smooth, performant animations.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -475,7 +476,7 @@
 - [sweetalert2/sweetalert2.github.io](https://github.com/sweetalert2/sweetalert2.github.io) - Documentation for SweetAlert2
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 
 ## Vala 
 
