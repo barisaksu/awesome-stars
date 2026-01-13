@@ -279,7 +279,7 @@
 - [KABBOUCHI/nova-impersonate](https://github.com/KABBOUCHI/nova-impersonate) - A Laravel Nova field allows you to authenticate as your users.
 - [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour to your Laravel app
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [protonemedia/inertiajs-tables-laravel-query-builder](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Inertia.js Tables for Laravel Query Builder
 - [laravelista/comments](https://github.com/laravelista/comments) - Native comments for your Laravel application.
 - [wasmerio/wasmer-php](https://github.com/wasmerio/wasmer-php) - 🐘🕸️ WebAssembly runtime for PHP
