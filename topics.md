@@ -95,6 +95,7 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [javascript](#javascript)
+- [jquery](#jquery)
 - [js](#js)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -789,6 +790,10 @@
 - [atticoos/MagicMirror](https://github.com/atticoos/MagicMirror) - :crystal_ball: ReactNative smart mirror project
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+
+## jquery 
+
+- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 ## js 
 
@@ -1581,6 +1586,7 @@
 
 ## vue 
 
+- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
