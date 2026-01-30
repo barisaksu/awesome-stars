@@ -1073,6 +1073,8 @@
 
 ## others 
 
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost) - A self-hosted price tracking application that monitors product prices from any website.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Pana-g/flutter_earth_globe](https://github.com/Pana-g/flutter_earth_globe) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
