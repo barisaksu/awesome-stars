@@ -827,6 +827,8 @@
 - [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - Serve millions of requests by caching with Cloudflare
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - Custom morphMap support per relationship for Laravel Eloquent polymorphic relations
+- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - Forward incoming Laravel requests to multiple destinations with async queue processing, automatic retries, custom providers, and built-in events.
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [GizemSever/laravel-paytr](https://github.com/GizemSever/laravel-paytr) - Laravel Paytr Wrapper - Laravel Paytr Integration
@@ -1104,8 +1106,6 @@
 - [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
-- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
-- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
 - [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
@@ -1192,6 +1192,8 @@
 - [mario-deluna/php-chip8](https://github.com/mario-deluna/php-chip8) - Yet another CHIP-8 emulator, but in PHP!
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - Custom morphMap support per relationship for Laravel Eloquent polymorphic relations
+- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - Forward incoming Laravel requests to multiple destinations with async queue processing, automatic retries, custom providers, and built-in events.
 - [xrdebug/php](https://github.com/xrdebug/php) - Official PHP client library for xrDebug
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
