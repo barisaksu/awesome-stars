@@ -249,8 +249,8 @@
 - [yediyuz/laravel-package](https://github.com/yediyuz/laravel-package) - A skeleton repository for Yediyuz's Laravel Packages
 - [yediyuz/laravel-cloudflare-cache](https://github.com/yediyuz/laravel-cloudflare-cache) - Serve millions of requests by caching with Cloudflare
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date
-- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - 
-- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - 
+- [moneo/laravel-morphmap](https://github.com/moneo/laravel-morphmap) - Custom morphMap support per relationship for Laravel Eloquent polymorphic relations
+- [moneo/laravel-request-forwarder](https://github.com/moneo/laravel-request-forwarder) - Forward incoming Laravel requests to multiple destinations with async queue processing, automatic retries, custom providers, and built-in events.
 - [onursimsek/precondition](https://github.com/onursimsek/precondition) - Precondition request for Laravel
 - [xrdebug/php](https://github.com/xrdebug/php) - Official PHP client library for xrDebug
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
