@@ -390,6 +390,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
 - [RustDili/dokuman](https://github.com/RustDili/dokuman) - Rust Türkçe Dökümanları
+- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 
@@ -507,7 +508,6 @@
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [theguriev/mind-maps-ext](https://github.com/theguriev/mind-maps-ext) - Mind maps
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
 
 
