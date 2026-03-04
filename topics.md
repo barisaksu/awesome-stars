@@ -68,6 +68,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -550,6 +551,11 @@
 ## facebook 
 
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
+
+## fastapi 
+
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 
 ## firebase 
 
