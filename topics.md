@@ -57,6 +57,7 @@
 - [deployment](#deployment)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -491,6 +492,10 @@
 ## development 
 
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## distributed-systems 
+
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 ## django 
 
