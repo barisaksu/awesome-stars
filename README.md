@@ -214,6 +214,7 @@
 
 ## Others 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
