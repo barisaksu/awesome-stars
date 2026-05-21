@@ -349,6 +349,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## Rust 
