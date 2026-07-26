@@ -171,7 +171,7 @@
 - [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 - [ndberg/laravel-mix-brotli](https://github.com/ndberg/laravel-mix-brotli) - A wrapper around brotli-webpack-plugin for Laravel Mix
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
-- [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [nudeui/awesomplete](https://github.com/nudeui/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 - [benface/tailwindcss-transitions](https://github.com/benface/tailwindcss-transitions) - [DEPRECATED] Tailwind CSS plugin to generate transition utilities
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
@@ -336,7 +336,7 @@
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [wbernard/Memorado](https://github.com/wbernard/Memorado) - Memorize anything
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
