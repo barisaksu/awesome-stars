@@ -1599,7 +1599,7 @@
 ## twitter 
 
 - [dmstern/likers-blocker](https://github.com/dmstern/likers-blocker) - [DEPRECATED] A browser extension to block likers, retweeters, list members and Twitter ads and share your block lists with others. - say NO to hate speech!
-- [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
+- [Socioboard-developers/Socioboard-5.0](https://github.com/Socioboard-developers/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
 
 ## typescript 
 
