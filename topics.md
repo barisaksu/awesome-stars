@@ -198,6 +198,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -1743,6 +1744,10 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
+
+## windows-11 
+
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## wordpress 
 
